@@ -32,7 +32,6 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-blue?style=flat&logo=React&logoColor=F7DF1E"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React_Native-000080?style=flat&logo=React&logoColor=F7DF1E"/>&nbsp;&nbsp;
 
 </p>
 
@@ -42,12 +41,17 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=4479A1"/>&nbsp;&nbsp;
     
 </p>
+### Mobile
+<p>
+  <img src="https://img.shields.io/badge/React_Native-000080?style=flat&logo=React&logoColor=F7DF1E"/>&nbsp;&nbsp;
 
+</p>
+    
 ### DataBase
 <p>
     <img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>&nbsp;&nbsp;
+  
 </p>
 
 ### Tools
