@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-blue?style=flat&logo=React&logoColor=F7DF1E"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React_Native-000080?style=flat&logo=React-Native&logoColor=F7DF1E%22"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React_Native-000080?style=flat&logo=React_Native&logoColor=F7DF1E%22"/>&nbsp;&nbsp;
 
 </p>
 
