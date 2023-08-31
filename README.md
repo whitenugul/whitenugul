@@ -32,7 +32,8 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-blue?style=flat&logo=React&logoColor=F7DF1E"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React_Native-000080?style=flat&logo=React_Native&logoColor=F7DF1E%22"/>&nbsp;&nbsp;
+  <img src="<img src="https://img.shields.io/badge/React_Native-000080?style=flat&logo=react-native&logoColor=F7DF1E"/>
+"/>&nbsp;&nbsp;
 
 </p>
 
@@ -67,5 +68,5 @@
 
 #
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KoYesung&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoYesung&layout=compact&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whitenugul&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitenugul&layout=compact&theme=tokyonight)
