@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/R-blue?style=flat&logo=R&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=yellow"/>&nbsp;&nbsp;
 </p>
 
 
@@ -40,6 +41,7 @@
 <p>
     <img src="https://img.shields.io/badge/Node.js-c2c5c5?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=4479A1"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Flask-black?style=flat&logo=Flask&logoColor=white"/>&nbsp;&nbsp;
     
 </p>
 
@@ -59,6 +61,7 @@
 ### Linux
 <p>
   <img src="https://img.shields.io/badge/Ubuntu-orange?style=flat&logo=Ubuntu&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Linux-yellow?style=flat&logo=Linux&logoColor=black"/>&nbsp;&nbsp;
 </p>
 
 ### Tools
