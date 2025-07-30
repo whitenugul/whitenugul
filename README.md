@@ -1,4 +1,4 @@
-### 뿌리면 두배로 수확하게 해주는 AI 개발자 안영준입니다!!
+### 뿌리면 두배로 수확하게 해주는 프론트엔드, 백엔드 개발자 안영준입니다!!
 
 ### E-mail
 <p>
@@ -19,11 +19,6 @@
 
 ### AI
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/R-blue?style=flat&logo=R&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=yellow"/>&nbsp;&nbsp;
 </p>
 
